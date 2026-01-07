@@ -1,1 +1,1 @@
-protótipo para o projeto "manipulações digitais" da UFRJ
+Protótipo para o projeto "manipulações digitais" da UFRJ 
